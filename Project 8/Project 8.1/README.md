@@ -97,10 +97,6 @@ curl -X POST http://localhost:5000/login \
 
 All responses are in JSON format. Consume the response body directly; no additional wrapping or XML.
 
-## Placeholder for UML Sequence Diagram
-
-Include the UML sequence diagram in a separate file (e.g., `sequence_diagram.png` or `AUTH_SEQUENCE.puml`) and reference it below:
-
 ## Notes
 
 * Use `application/json` for all requests.
